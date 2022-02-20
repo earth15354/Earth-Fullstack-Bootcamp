@@ -1,0 +1,14 @@
+{
+  "name": "fish",
+  "version": "fish",
+  "description": "fish",
+  "main": "fish",
+  "repository": "fish",
+  "author": "fish",
+  "license": "fish",
+  "private": null,
+  "dependencies": {
+    "@bounoable/vue-image-slider": "^0.4.4",
+    "express": "^4.17.3"
+  }
+}
